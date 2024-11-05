@@ -78,29 +78,29 @@
   
         "books": [
   
-          {
+            {
   
-            "title": "The Hobbit",
+                "title": "The Beginners Guide to Branding",
+      
+                "author": "Creative Market",
+      
+                "pdf_link": "https://mdayubmondol.github.io/The-Beginners-Guide-to-Branding.pdf",
+      
+                "cover_link": "https://mdayubmondol.github.io/The-Beginners-Guide-to-Branding.jpg"
+      
+              },
   
-            "author": "J.R.R. Tolkien",
+              {
   
-            "pdf_link": "https://example.com/the_hobbit.pdf",
-  
-            "cover_link": "https://example.com/the_hobbit_cover.jpg"
-  
-          },
-  
-          {
-  
-            "title": "Harry Potter and the Sorcerer's Stone",
-  
-            "author": "J.K. Rowling",
-  
-            "pdf_link": "https://example.com/harry_potter1.pdf",
-  
-            "cover_link": "https://example.com/harry_potter1_cover.jpg"
-  
-          }
+                "title": "The Beginners Guide to Branding",
+      
+                "author": "Creative Market",
+      
+                "pdf_link": "https://mdayubmondol.github.io/The-Beginners-Guide-to-Branding.pdf",
+      
+                "cover_link": "https://mdayubmondol.github.io/The-Beginners-Guide-to-Branding.jpg"
+      
+              }
   
         ]
   
@@ -112,29 +112,29 @@
   
         "books": [
   
-          {
+            {
   
-            "title": "The Da Vinci Code",
+                "title": "The Beginners Guide to Branding",
+      
+                "author": "Creative Market",
+      
+                "pdf_link": "https://mdayubmondol.github.io/The-Beginners-Guide-to-Branding.pdf",
+      
+                "cover_link": "https://mdayubmondol.github.io/The-Beginners-Guide-to-Branding.jpg"
+      
+              },
   
-            "author": "Dan Brown",
+            {
   
-            "pdf_link": "https://example.com/da_vinci_code.pdf",
-  
-            "cover_link": "https://example.com/da_vinci_code_cover.jpg"
-  
-          },
-  
-          {
-  
-            "title": "Sherlock Holmes: The Complete Collection",
-  
-            "author": "Arthur Conan Doyle",
-  
-            "pdf_link": "https://example.com/sherlock_holmes.pdf",
-  
-            "cover_link": "https://example.com/sherlock_holmes_cover.jpg"
-  
-          }
+                "title": "The Beginners Guide to Branding",
+      
+                "author": "Creative Market",
+      
+                "pdf_link": "https://mdayubmondol.github.io/The-Beginners-Guide-to-Branding.pdf",
+      
+                "cover_link": "https://mdayubmondol.github.io/The-Beginners-Guide-to-Branding.jpg"
+      
+              }
   
         ]
   
